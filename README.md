@@ -1,0 +1,2 @@
+# Portuguese-Bank-Marketing
+The project aims to analyze the Portuguese Bank Marketing dataset and predict weather the client will subscribed to the term deposit.  Data Set Information: The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
